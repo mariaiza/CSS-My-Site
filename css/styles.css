@@ -1,10 +1,8 @@
 /************************************** SELECTOR SECTION **************************************/
 
 a {
-  color: #fed9ca;
-  font-family: "Montserrat Alternates", sans-serif;
-  font-size: 1em;
-  margin: 0 1%;
+  margin: 0;
+  padding: 0;
 }
 
 body {
@@ -128,6 +126,15 @@ p {
 
 .footer-img-container {
   padding-top: 4%;
+}
+
+.footer-link {
+  color: #fed9ca;
+  font-family: "Montserrat Alternates", sans-serif;
+  font-size: 1em;
+  margin: 0 1%;
+  font-style: normal;
+  text-decoration: none;
 }
 
 .middle-container {

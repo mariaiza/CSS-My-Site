@@ -1,0 +1,183 @@
+/************************************** SELECTOR SECTION **************************************/
+
+a {
+  color: #fed9ca;
+  font-family: "Montserrat Alternates", sans-serif;
+  font-size: 1em;
+  margin: 0 1%;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Montserrat Alternates", sans-serif;
+  /* background-color: blue; */
+  background-color: #ffefe0;
+}
+
+button {
+  margin: 5%;
+  border: none;
+  font-family: "Montserrat Alternates", sans-serif;
+  font-size: 1em;
+}
+
+h1,
+h2 {
+  color: #7d7d7d;
+}
+
+h1 {
+  margin-top: 6%;
+  margin-bottom: 0;
+  font-family: "Caveat", cursive;
+  font-size: 7.125rem; /* 16px = 1em */
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 1.8rem;
+  margin-top: 1.5rem;
+  font-weight: bold;
+  color: #40514e;
+}
+
+h3 {
+  font-family: "Montserrat Alternates", sans-serif;
+  color: #694e4e;
+}
+
+hr {
+  color: #694e4e;
+  border-style: dotted none none none;
+  border-width: 7px;
+  width: 5%;
+  margin-top: 5%;
+}
+
+p {
+  font-family: serif;
+  color: #7d7d7d;
+  font-size: 1.1rem;
+  margin-bottom: 10%;
+}
+
+/************************************** CLASS SECTION **************************************/
+.boho {
+  position: absolute;
+  top: 10%;
+  left: 36%;
+}
+
+.bottom-container {
+  padding: 2%;
+  background-color: #7d7d7d;
+}
+
+.bottom-flower {
+  position: absolute;
+  top: 60%;
+  left: 5%;
+  width: 15%;
+}
+
+.btn {
+  background: #835858;
+  background-image: -webkit-linear-gradient(top, #835858, #835858);
+  background-image: -moz-linear-gradient(top, #835858, #835858);
+  background-image: -ms-linear-gradient(top, #835858, #835858);
+  background-image: -o-linear-gradient(top, #835858, #835858);
+  background-image: linear-gradient(to bottom, #835858, #835858);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #fff0f0;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ebd4d4;
+  background-image: -webkit-linear-gradient(top, #ebd4d4, #a68888);
+  background-image: -moz-linear-gradient(top, #ebd4d4, #a68888);
+  background-image: -ms-linear-gradient(top, #ebd4d4, #a68888);
+  background-image: -o-linear-gradient(top, #ebd4d4, #a68888);
+  background-image: linear-gradient(to bottom, #ebd4d4, #a68888);
+  text-decoration: none;
+}
+
+.contact-me {
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+  padding: 5%;
+}
+
+.copyright {
+  color: #e2e1e1;
+  margin-top: 2%;
+  margin-bottom: 0;
+}
+
+.eucalyptus {
+  height: 5%;
+  width: 37%;
+}
+
+.footer-img-container {
+  padding-top: 4%;
+}
+
+.middle-container {
+  margin-top: 5%;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.profile {
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+}
+
+.skills {
+  margin: 4%;
+}
+
+.skill-img-odd {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-img-even {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-container {
+  /* background-color: #e4f9f5; */
+  background-color: #fed9ca;
+  position: relative;
+  padding-top: 10%;
+  padding-bottom: 5%;
+}
+
+.top-flower {
+  position: absolute;
+  top: 10%;
+  right: 5%;
+  width: 15%;
+}

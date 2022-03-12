@@ -1,4 +1,8 @@
 /************************************** SELECTOR SECTION **************************************/
+a:hover {
+  color: white;
+}
+
 body {
   margin: 0;
   text-align: center;
@@ -62,7 +66,7 @@ p {
 
 .bottom-container {
   padding: 2%;
-  background-color: #7d7d7d;
+  background-color: #444444;
 }
 
 .bottom-flower {
@@ -112,7 +116,7 @@ p {
 }
 
 .copyright {
-  color: #ffffff;
+  color: #e0e0e0;
   margin-top: 2%;
   margin-bottom: 0;
 }
@@ -127,7 +131,7 @@ p {
 }
 
 .footer-link {
-  color: #fdf7f4;
+  color: #ffe2d4;
   font-family: "Montserrat Alternates", sans-serif;
   font-size: 1em;
   margin: 0 1%;
@@ -178,7 +182,6 @@ p {
 }
 
 .top-container {
-  /* background-color: #e4f9f5; */
   background-color: #fed9ca;
   position: relative;
   padding-top: 10%;

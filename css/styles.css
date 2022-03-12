@@ -3,7 +3,6 @@ body {
   margin: 0;
   text-align: center;
   font-family: "Montserrat Alternates", sans-serif;
-  /* background-color: blue; */
   background-color: #ffefe0;
 }
 
@@ -49,7 +48,7 @@ hr {
 
 p {
   font-family: serif;
-  color: #7d7d7d;
+  color: #080808;
   font-size: 1.1rem;
   margin-bottom: 10%;
 }
@@ -83,7 +82,7 @@ p {
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: #fff0f0;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
@@ -107,8 +106,13 @@ p {
   padding: 5%;
 }
 
+.contact-me-msg {
+  width: 60%;
+  margin: 0 auto 5%;
+}
+
 .copyright {
-  color: #e2e1e1;
+  color: #ffffff;
   margin-top: 2%;
   margin-bottom: 0;
 }
@@ -123,12 +127,17 @@ p {
 }
 
 .footer-link {
-  color: #fed9ca;
+  color: #fdf7f4;
   font-family: "Montserrat Alternates", sans-serif;
   font-size: 1em;
   margin: 0 1%;
   font-style: normal;
   text-decoration: none;
+}
+
+.intro {
+  width: 70%;
+  margin: 0 auto;
 }
 
 .middle-container {
